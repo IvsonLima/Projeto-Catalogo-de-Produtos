@@ -35,5 +35,4 @@ The dependencies which are used in this project can be found in: https://mvnrepo
 - GET localhost:9999/products/{id}
 - GET localhost:9999/products
 - DELETE localhost:9999/products/{id}
-- 
 

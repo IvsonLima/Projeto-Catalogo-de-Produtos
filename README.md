@@ -1,4 +1,4 @@
-# Projeto Teste
+# Projeto Catalogo de Produtos
 
 ## About
 
